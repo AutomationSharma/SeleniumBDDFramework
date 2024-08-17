@@ -13,4 +13,13 @@
     <PackageReference Include="SpecFlow" Version="3.9.74" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Features\" />
+    <Folder Include="Hooks\" />
+    <Folder Include="Utilities\" />
+    <Folder Include="TestResults\" />
+    <Folder Include="Steps\" />
+    <Folder Include="Pages\" />
+  </ItemGroup>
+
 </Project>
